@@ -1,0 +1,80 @@
+*{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+.total{width: 100%;height: 141vh; background: #e7e1e1 ;}
+.cephalosome{width: 100%;height: 23vh;background:white;}
+.cephalosome2{width: 100%;height: 13vh; background: orange;}
+.tx{width: 7vh;}
+.cephalosome2_s1{margin-top: 3vh;position: absolute; margin-left: 2vh;}
+.cephalosome2_s2{font-size:1.1em; margin-top: 5vh;position: absolute; margin-left: 10vh;}
+.cephalosome_s1{font-size: 1.1em; margin-top: 2vh;position: absolute; margin-left: 22vw;}
+.cephalosome_s2{font-size: 0.9em; margin-top: 6vh;position: absolute; margin-left: 20vw;}
+.cephalosome_s3{font-size: 1.1em; margin-top: 2vh;position: absolute; margin-left: 70vw;}
+.cephalosome_s4{font-size:0.9em; margin-top: 6vh;position: absolute; margin-left: 71vw;}
+
+.dqzt{width: 100%; height: 5vh; background:#feea65; margin-top: 1vh;}
+.dqzt_s1{font-size: 0.8em; color: #e9a317; margin-top: 1vh;position: absolute;margin-left: 4vw;}
+.dqzt_s2{font-size: 0.8em; color: #e9a317; margin-top: 1vh;position: absolute; margin-left:75vw;}
+.dqzt_s2 a{color: #e9a317;}
+
+.tfv{width: 100%;height:20vh; background: white; display:flex;}
+.tfv2{width: 35vh;height: 20vh; background: white;}
+.tfv2_s2{font-size: 0.9em;margin-top: 2vh;position: absolute; margin-left: 4vw;font-weight: 1000;}
+.tfv2_s3{font-size: 0.73em;color: gray; margin-top: 6vh;position: absolute; margin-left: 4vw;}
+.bz{width: 2vh;}
+.tfv2_s4{font-size: 0.72em; margin-top: 14vh;position: absolute; margin-left: 4vw;color: #CD853F;}
+
+.tfv3{width:21vh;height: 20vh; background: white;}
+.lx{font-size: 2vh; margin-top: 3vh; margin-left: 10vw;}
+.phone{font-size: 3vh; margin-top: 3vh; margin-left: 12vw;}
+.tfv3_s1{font-size: 0.9em; color: darkorange; margin-top: 6vh;position: absolute; margin-left: -22vw;}
+.tfv3_s2{font-size: 0.9em; margin-top: 6vh;position: absolute; margin-left: -5vw;}
+.tfv3_s2 a{color: darkorange; }
+
+.duoxiang{width: 100%; height: 11vh; background: white; margin-top: 1vh;}
+.duoxiang ul li{float: left;}
+.dzf{width: 7vw; margin-top: 3vh; margin-left: 10vw;}
+.duoxiang_s1{font-size: 0.75em; margin-top: 7vh;position: absolute; margin-left: -76vw;}
+.duoxiang_s2{font-size: 0.75em;margin-top: 7vh;position: absolute; margin-left: -59vw;}
+.duoxiang_s3{font-size: 0.75em;margin-top: 7vh;position: absolute; margin-left: -42vw;}
+.duoxiang_s4{font-size: 0.75em;margin-top: 7vh;position: absolute; margin-left: -28vw;}
+.duoxiang_s5{font-size: 0.75em;margin-top: 7vh;position: absolute; margin-left: -9vw;}
+
+.sz{width: 100%; height: 15vh; background: white; margin-top: 1vh;}
+
+.sz ul li{float: left;}
+.wcm{width: 5vw; margin-top: 5vh; margin-left: 12vw;}
+.wjdy{width: 8vw; margin-top: 8vw; margin-left:12vw;}
+.sz_s1{font-size: 0.75em;margin-top: 9vh; margin-left: -61vw;position: absolute;}
+.sz_s2{font-size: 0.75em;margin-top: 9vh; margin-left: -45vw; position: absolute;}
+.sz_s3{font-size: 0.75em;margin-top: 9vh; margin-left: -27vw; position: absolute;}
+.sz_s4{font-size: 0.75em;margin-top: 9vh; margin-left: -6vw; position: absolute;}
+
+.jxtj{font-size: 1em;margin-top: 2vh; margin-left: 17vh;position: absolute;}
+
+.bpy{width:54vh;height:23vh; background: white; margin-top: 7vh; margin-left: 1vh;border-radius:3vw ;}
+.bpy_s1{margin-top: 1vh;position: absolute; margin-left:2vw; font-size: 0.85em;}
+.bpy_s2{font-size: 0.8em;color: red;background:lightcoral; margin-top:7vh;position: absolute;margin-left: 1vh;}
+.bpy_s3{font-size: 0.8em;border: 1px solid lightcoral; color:lightcoral;margin-top: 12vh; position: absolute;margin-left: 1vh;}
+.bpy_s4{color: red;margin-top:16vh;position: absolute; margin-left: 1vh;}
+.bpy_s5{font-size:0.75em;color: gray;margin-top: 19vh;position: absolute; margin-left: 1vh;}
+.bpy_b1{margin-top:16vh;position: absolute;background: orange; height:5vh;margin-left:27vw;border-radius: 3vw;}
+
+.bpy2{width:54vh;height:23vh; background: white; margin-top: 1vh; margin-left: 1vh;border-radius:3vw ;}
+.bpy_s1{margin-top: 1vh;position: absolute; margin-left: 2vw; font-size: 0.85em;}
+.bpy_s2{font-size: 0.8em;color: red;background:lightcoral; margin-top:7vh;position: absolute;margin-left: 1vh;}
+.bpy_s3{font-size: 0.8em;border: 1px solid lightcoral; color:lightcoral;margin-top: 12vh; position: absolute;margin-left: 1vh;}
+.bpy_s4{color: red;margin-top:16vh;position: absolute; margin-left: 1vh;}
+.bpy_s5{font-size:0.75em;color: gray;margin-top: 19vh;position: absolute; margin-left: 1vh;}
+.bpy_b1{margin-top:16vh;position: absolute;background: orange; height:5vh;margin-left:27vw;border-radius: 3vw;}
+
+.foot{position:fixed;width: 100%; height: 10vh;background: ghostwhite;bottom: -1vw;}
+.xw{margin-left: 5vw; margin-top: 1vh;position: absolute;}
+.femlei{margin-left: 30vw; margin-top: 1vh;position: absolute;}
+.gouwuc{margin-left: 56vw; margin-top: 1vh;position: absolute;}
+.me{margin-left: 82vw; margin-top: 1vh;position: absolute;}
+.foot_s1{margin-top:6vh; position: absolute; margin-left: 5vw;}
+.foot_s2{margin-top:6vh; position: absolute; margin-left: 30vw;}
+.foot_s3{margin-top:6vh; position: absolute; margin-left: 55vw;}
+.foot_s4{margin-top:6vh; position: absolute; margin-left: 82vw;}

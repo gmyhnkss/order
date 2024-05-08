@@ -1,0 +1,55 @@
+*{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+.possess{width: 100vw;height: 100vh;background:#e7e1e1;}
+.xs{width: 100vw;height:28vh;background: orange;}
+.fh4{width: 4vw; margin-top: 3vh; margin-left:4vw;}
+.xs_s1{font-size: 0.85em;margin-top: 3vh;position: absolute;margin-left: 2vh;}
+
+.zb{width: 94vw;height: 26vh;background: white;margin-top: 5vh;border-radius: 4vw;margin-left:3vw;}
+.thr{width: 94vw;height: 6vh;background: white;}
+.ztd{width: 94vw;height: 12vh;background: white;}
+
+.thr_s1{font-size: 0.8em;line-height: 6vh; margin-left: 2vw;font-weight: 1000;}
+.thr_s2{font-size: 0.8em;line-height: 6vh; margin-left: 30vw;color: #E9A317;}
+.ztd_s1{font-size: 0.8em;line-height: 6vh; margin-left: 2vw;font-weight: 1000;}
+.ztd_s2{font-size: 0.8em;line-height: 6vh; margin-left: 51vw;}
+.ztd_s2 a{color: #E9A317;}
+.ztd_s3{font-size: 0.7em;line-height: 1vh; margin-left: 2vw; color: grey;}
+.ztd_s4{font-size: 0.7em;line-height: 4vh; margin-left: 2vw; color: grey;}
+
+.ztd_s5{font-size: 0.7em;line-height: 4vh; margin-left: 2vw; color: peru; font-weight: 1000;}
+.ztd_s6{font-size: 0.7em;line-height: 2vh; margin-left: 2vw; color: peru;}
+
+.zt{width: 94vw;height: 20vh;background: white;margin-top:10vh;border-radius: 4vw;margin-left:3vw;}
+.zt_s1{font-size: 0.8em;line-height: 5vh; margin-left: 2vw;}
+.zt_s2{font-size: 0.8em;line-height: 5vh; margin-left: 49vw;}
+.kb10{width: 12vh;margin-left: 4vw;}
+.zt_s3{font-size: 0.8em;margin-top: 1vh;position: absolute;margin-left: 2vw;}
+.zt_s4{font-size: 0.7em;}
+.zt_s5{font-size: 0.95em;font-weight: 500;}
+.zt_s6{font-size: 0.7em;color: gainsboro;}
+.zt_s7{font-size: 0.7em;color: gainsboro;}
+.zt_s8{font-size: 0.8em; margin-left: 18vw;}
+
+.yhj{width: 94vw;height: 5vh;background: white;margin-top:1vh;border-radius: 4vw;margin-left:3vw;}
+.yhj_s1{line-height: 5vh;font-size: 0.8em;margin-left: 2vw;}
+.yhj_s2{line-height: 5vh;font-size: 0.8em;margin-left: 63vw;}
+
+.shprice{width: 94vw;height: 10vh;background: white;margin-top:1vh;border-radius: 4vw;margin-left:3vw;}
+.shprice_s1{line-height: 5vh;font-size: 0.8em;margin-left: 2vw;}
+.shprice_s2{line-height: 5vh;font-size: 0.85em;margin-left: 58vw; font-weight: 1000;}
+.shprice_s3{margin-top:1vh; font-size: 0.8em;margin-left: 2vw;}
+.shprice_s4{margin-top:1vh; font-size: 0.85em;margin-left:60vw; color: deeppink;position: absolute;}
+
+.bz{width: 94vw;height: 5vh;background: white;margin-top:1vh;border-radius: 4vw;margin-left:3vw;}
+.bz_s1{line-height: 5vh;font-size: 0.8em;margin-left: 2vw;}
+.bz_s2{line-height: 5vh;font-size: 0.8em;margin-left: 59vw;color: gainsboro;} 
+
+
+.buy{width:100vw;height: 7vh;background: black;border-radius: 10vw;position: fixed;bottom:1vh;}
+.buy_s1{position: absolute; margin-top: 4vw; margin-left:3vw ;}
+.buy_b1{margin-top:1vw;position: absolute;background: orange; height:6vh;margin-left:78vw;border-radius: 10vw;}
+.buy_s2{color: white; margin-top: 5vw;position: absolute; margin-left:53vw; font-size: 3vw;}
+.buy_s3{color: white; margin-top: 3vw;position: absolute; margin-left: 65vw; font-size: 5vw;}

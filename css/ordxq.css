@@ -1,0 +1,74 @@
+*{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+.totidem{width: 100vw;height: 106vh; background:#e7e1e1;}
+.first{width: 100vw;height: 8vh;background: white;position: fixed; z-index: 1;}
+.fh{width: 4vw; margin-top: 3vh; margin-left: 2vh;}
+.first_s1{font-size: 0.85em;margin-top: 3vh;position: absolute;margin-left: 2vh;}
+
+.ready{width: 100vw;height: 5vh;background: white;margin-top: 8vh;position: absolute;}
+.ready_s1{line-height: 5vh;font-size:0.9em;margin-left: 2vw;font-weight: 1000;}
+
+.zs{width: 100vw;height: 15vh;background: white;margin-top: 14vh;position: absolute;}
+.ztm{width: 100vw;height: 5vh;background: white;}
+.ztm_s1{font-size: 0.8em;line-height: 5vh;margin-left: 2vw;}
+.ztm_s2{font-size: 0.8em;line-height: 5vh;margin-left: 3vw;}
+.ztm_s3{font-size: 0.8em;line-height: 5vh;margin-left: 43vw;border: 1px solid black;border-radius:2vw;}
+
+.lxtz{font-size: 0.8em; margin-top: 1vh;position: absolute;margin-left: 2vw;}
+.phone1{font-size: 0.8em; margin-top: 1vh;position: absolute;margin-left: 32vw;width: 2vh;}
+.lxtz1{font-size: 0.8em; margin-top: 1vh;position: absolute;margin-left: 37vw; }
+.lxtz1 a{color:orange;}
+.lxtz2{font-size: 0.75em; margin-top: 4vh;position: absolute;margin-left: 2vw; color:gray;}
+.lx1{width: 2vh; margin-top: 2vh;position: absolute;margin-left: 90vw;}
+.lxtz3{font-size: 0.8em; margin-top: 5vh;position: absolute;margin-left: 88vw; color:orange;}
+
+
+.sqtk{width: 100vw;height: 15vh;background: white;position: absolute;margin-top: 30vh;}
+.kb11{width:12vh;margin-top: 1vh;margin-left: 2vw;}
+.sqtk_s1{font-size: 0.8em;margin-top: 2vh;position: absolute; margin-left: 2vw;}
+.sqtk_s2{font-size: 0.8em;margin-top: 2vh;position: absolute; margin-left: 59vw;}
+.sqtk_s3{font-size: 0.7em;margin-top: 6vh;position: absolute; margin-left: 2vw;color: gray;}
+.sqtk_s4{font-size: 0.8em;margin-top: 10vh;position: absolute; margin-left: 57vw;border: 1px solid black;border-radius: 2vw;}
+
+.yhj{width: 100vw;height: 5vh;background: white;margin-top:45vh;position: absolute;}
+.yhj_s1{line-height: 5vh;font-size: 0.8em;margin-left: 2vw;}
+.yhj_s2{line-height: 5vh;font-size: 0.8em;margin-left: 65vw;}
+
+.yhj2{width: 100vw;height: 5vh;background: white;margin-top:49vh;position: absolute;}
+.yhj2_s1{line-height: 5vh;font-size: 0.8em;margin-left: 2vw;}
+.yhj2_s2{line-height: 5vh;font-size: 0.9em;margin-left: 63vw; color: red;font-weight: 1000;}
+
+.yhj3{width: 100vw;height: 5vh;background: white;margin-top:55vh;position: absolute;}
+.yhj3_s1{line-height: 5vh;font-size: 0.9em;margin-left: 2vw;font-weight: 1000;}
+
+.num{width: 100vw;height: 13vh;background: white;position: absolute;margin-top: 60vh;}
+.num_s1{font-size:0.75em;margin-top: 2vh;position: absolute;margin-left: 2vw;}
+.num_s2{font-size:0.75em;margin-top: 2vh;position: absolute;margin-left: 20vw;}
+.num_s3{font-size:0.75em;margin-top: 2vh;position: absolute;margin-left: 50vw;border: 1px solid black;border-radius: 2vw;}
+
+.num_s4{font-size:0.75em;margin-top: 6vh;position: absolute;margin-left: 2vw;}
+.num_s5{font-size:0.75em;margin-top: 6vh;position: absolute;margin-left: 20vw;}
+.num_s6{font-size:0.75em;margin-top: 10vh;position: absolute;margin-left: 2vw;}
+.num_s7{font-size:0.75em;margin-top: 10vh;position: absolute;margin-left: 20vw;}
+
+.yhj4{width:100vw;height: 5vh;background: white;margin-top:74vh;position: absolute;}
+.yhj4_s1{line-height: 5vh;font-size: 0.85em;margin-left: 2vw;font-weight: 1000;}
+.yhj4_s2{line-height: 5vh;font-size: 0.75em;margin-left: 40vw;}
+
+.problem{width: 100vw; height: 14vh;background: white;margin-top:79vh;position: absolute;}
+.problem_s1{font-size:0.8em;margin-top: 2vh;position: absolute;margin-left: 4vw;border: 1px solid gray;width:22vh;
+text-align: center;height: 4vh;line-height: 4vh;border-radius: 4vw;background:gainsboro;}
+
+.problem_s2{font-size:0.8em;margin-top: 2vh;position: absolute;margin-left: 53vw;border: 1px solid gray;width:22vh;
+text-align: center;height: 4vh;line-height: 4vh;border-radius: 4vw;background:gainsboro;}
+
+.problem_s3{font-size:0.8em;margin-top: 8vh;position: absolute;margin-left: 4vw;border: 1px solid gray;width:22vh;
+text-align: center;height: 4vh;line-height: 4vh;border-radius: 4vw;background:gainsboro;}
+
+.problem_s4{font-size:0.8em;margin-top: 8vh;position: absolute;margin-left: 53vw;border: 1px solid gray;width:22vh;
+text-align: center;height: 4vh;line-height: 4vh;border-radius: 4vw;background:gainsboro;}
+
+.cancel{width: 100vw;height: 7vh;background: white;margin-top: 95vh;position: absolute;}
+.cancel_s1{line-height: 7vh; font-size: 0.9em;position: absolute;margin-left: 40vw;}

@@ -1,0 +1,66 @@
+*{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+.full{width: 100%;height: 108vh; background: #e7e1e1;}
+.first{width: 100%;height: 8vh;background: white;position: fixed; z-index: 1;}
+.fh{width: 4vw; margin-top: 3vh; margin-left: 2vh;}
+.first_s1{font-size: 0.85em;margin-top: 3vh;position: absolute;margin-left: 2vh;}
+.first_s2{position: absolute;font-size: 0.75em;color: gray;margin-top: 15vh; margin-left: 1vh;}
+
+.dqdz{width: 100%; height:6vh;background: white;margin-top: 18vh;position: absolute;}
+.dqdz_s1{font-size: 0.8em;position: absolute;margin-top: 3vw;margin-left: 4vw;}
+.dqdz_s2{font-size: 0.75em;position: absolute;margin-top: 3vw;margin-left: 80vw;color: darkorange;}
+.first_s3{font-size: 0.75em;position: absolute;margin-top: 25vh;color: gray; margin-left: 1vh;}
+
+.mk{width: 100%;height: 12vh; background: white;position: absolute;margin-top: 28vh;}
+.kb{width: 9vh;position: absolute;margin-top: 1vh;margin-left: 1vh;}
+.mk_s1{font-size: 0.8em;position: absolute;margin-top: 1vh;margin-left: 11vh;}
+.mk_s2{font-size: 0.76em;position: absolute;margin-top: 4vh;margin-left: 11vh;color: darkorange;}
+.mk_s3{font-size: 0.76em;position: absolute;margin-top: 7vh;margin-left: 11vh;color: gray;}
+.mk_b1{margin-top:2vw;position: absolute;background: orange; height:4vh;margin-left:78vw;border-radius: 3vw;}
+
+.first_s4{font-size: 0.75em;position: absolute;margin-top: 41vh;margin-left: 1vh;color: gray;}
+
+.mk1{width: 100%;height: 12vh; background: white;position: absolute;margin-top: 44vh;}
+.kb1{width: 9vh;position: absolute;margin-top: 1vh;margin-left: 1vh;}
+.mk1_s1{font-size: 0.8em;position: absolute;margin-top: 1vh;margin-left: 11vh;}
+.mk1_s2{font-size: 0.76em;position: absolute;margin-top: 4vh;margin-left: 11vh;color: darkorange;}
+.mk1_s3{font-size: 0.76em;position: absolute;margin-top: 7vh;margin-left: 11vh;color: gray;}
+.mk1_b1{margin-top:2vw;position: absolute;background: orange; height:4vh;margin-left: 78vw;border-radius: 3vw;}
+
+.mk2{width: 100%;height: 12vh; background: white;position: absolute;margin-top: 56vh;}
+.kb2{width: 9vh;position: absolute;margin-top: 1vh;margin-left: 1vh;}
+.mk2_s1{font-size: 0.8em;position: absolute;margin-top: 1vh;margin-left: 11vh;}
+.mk2_s2{font-size: 0.76em;position: absolute;margin-top: 4vh;margin-left: 11vh;color: darkorange;}
+.mk2_s3{font-size: 0.76em;position: absolute;margin-top: 7vh;margin-left: 11vh;color: gray;}
+.mk2_b1{margin-top:2vw;position: absolute;background: orange; height:4vh;margin-left: 78vw;border-radius: 3vw;}
+
+.mk3{width: 100%;height: 12vh; background: white;position: absolute;margin-top: 68vh;}
+.kb3{width: 9vh;position: absolute;margin-top: 1vh;margin-left: 1vh;}
+.mk3_s1{font-size: 0.8em;position: absolute;margin-top: 1vh;margin-left: 11vh;}
+.mk3_s2{font-size: 0.76em;position: absolute;margin-top: 4vh;margin-left: 11vh;color: darkorange;}
+.mk3_s3{font-size: 0.76em;position: absolute;margin-top: 7vh;margin-left: 11vh;color: gray;}
+.mk3_b1{margin-top:2vw;position: absolute;background: orange; height:4vh;margin-left: 78vw;border-radius: 3vw;}
+
+.mk4{width: 100%;height: 12vh; background: white;position: absolute;margin-top: 80vh;}
+.kb4{width: 9vh;position: absolute;margin-top: 1vh;margin-left: 1vh;}
+.mk4_s1{font-size: 0.8em;position: absolute;margin-top: 1vh;margin-left: 11vh;}
+.mk4_s2{font-size: 0.76em;position: absolute;margin-top: 4vh;margin-left: 11vh;color: darkorange;}
+.mk4_s3{font-size: 0.76em;position: absolute;margin-top: 7vh;margin-left: 11vh;color: gray;}
+.mk4_b1{margin-top:2vw;position: absolute;background: orange; height:4vh;margin-left: 78vw;border-radius: 3vw;}
+
+.mk5{width: 100%;height: 17vh; background: white;position: absolute;margin-top: 92vh;}
+.kb5{width: 9vh;position: absolute;margin-top: 1vh;margin-left: 1vh;}
+.mk5_s1{font-size: 0.8em;position: absolute;margin-top: 1vh;margin-left: 11vh;}
+.mk5_s2{font-size: 0.76em;position: absolute;margin-top: 4vh;margin-left: 11vh;color: darkorange;}
+.mk5_s3{font-size: 0.76em;position: absolute;margin-top: 7vh;margin-left: 11vh;color: gray;}
+.mk5_b1{margin-top:2vw;position: absolute;background: orange; height:4vh;margin-left: 78vw;border-radius: 3vw;}
+
+.yw{width: 100%;height: 6vh; background: white;margin-top: 8vh;position: absolute;}
+.yw_s1{font-size: 0.8em; position: absolute;margin-top: 2vh;margin-left: 2vh;}
+.xx{width: 2vw;margin-top: 3vh;margin-left: 9vh;}
+.zb{margin-top: -5vw;position: absolute;border-radius: 2vw; margin-left: 13vh;width: 40vh;}
+.fd{width: 5vw; position: absolute;top: 3vw;left: 14vh;z-index: 1;}
+
+
